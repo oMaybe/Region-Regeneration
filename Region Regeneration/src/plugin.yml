@@ -1,0 +1,5 @@
+name: RegionRegeneration
+author: Liquided
+version: 1.0
+description: Restores an area of land after a certain amount of time
+main: net.liquided.regionregen.Main
